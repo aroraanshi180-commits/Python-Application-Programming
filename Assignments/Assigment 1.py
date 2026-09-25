@@ -1,5 +1,5 @@
 # Q1 Print name and hobby
-print("Hello! My name is Harshit Sharma and my hobby is playing cricket.")
+print("Hello! My name is Anshi Arora and my hobby is reading .")
 
 # Q2 Print comments
 # This is a single-line comment
